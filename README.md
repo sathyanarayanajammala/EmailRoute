@@ -2,6 +2,123 @@
 
 An intelligent email processing system for loan servicing operations using CrewAI and LangChain with emini-2.0-flash LLM.
 
+## Output Details
+
+### Output File Location
+The system generates analysis results in: `output_results/email_analysis_results.txt`
+
+### Output Format Structure
+Each email analysis contains:
+
+```json
+{
+  "email_metadata": {
+    "subject": "Loan Adjustment Notification",
+    "from": "adjustments@loanservicing.com",
+    "to": "john.smith@example.com",
+    "date": "2025-03-15"
+  },
+  "summary": "Detailed summary of email content...",
+  "intent_classification": {
+    "intent": "Account Management",
+    "priority": "Medium",
+    "response_time": "48 hours",
+    "departments": ["Finance", "Support"],
+    "sentiment": "Neutral"
+  },
+  "extracted_attributes": {
+    "customer_name": "John Smith",
+    "account_id": "L-45872-93A",
+    "product_service": "Loan",
+    "issue_description": "Interest rate recalculation",
+    "deadline": null,
+    "amount": "$258.75",
+    "requested_action": "Review adjustment",
+    "contact_info": "(800) 555-1234"
+  },
+  "assignment": {
+    "assigned_employee_id": "E001",
+    "assigned_employee_name": "Alice Johnson",
+    "rationale": "Assignment reasoning...",
+    "confidence_score": 90,
+    "alternative_assignee": {
+      "employee_id": "E003",
+      "employee_name": "Carol White"
+    }
+  }
+}
+```
+
+### Sample Email Types
+
+1. **Loan Adjustments**
+```
+From: adjustments@loanservicing.com
+Subject: Loan Adjustment Notification
+Content: Interest rate recalculation notices, principal adjustments
+```
+
+2. **Money Movement**
+```
+From: internationaltransfers@loanservicing.com
+Subject: Outbound Foreign Currency Transfer
+Content: Currency transfers, exchange rates, transfer confirmations
+```
+
+3. **Commitment Changes**
+```
+From: commitments@loanservicing.com
+Subject: Commitment Increase/Decrease Notification
+Content: Changes in commitment amounts, terms modifications
+```
+
+4. **Fee Processing**
+```
+From: closings@loanservicing.com
+Subject: Amendment Fees/Fee Reallocation
+Content: Fee calculations, payment schedules, reallocations
+```
+
+### Processing Examples
+
+1. **Interest Payment Processing**
+- Input: Email about inbound interest payment
+- Output: Assignment to Treasury Management specialist
+- Confidence Score: 85-95%
+- Response Time: Based on payment priority
+
+2. **Loan Adjustment Processing**
+- Input: Interest rate recalculation notice
+- Output: Assignment to Loan Adjustment Specialist
+- Confidence Score: 90-95%
+- Response Time: 24-48 hours
+
+3. **Foreign Currency Transfers**
+- Input: International transfer notification
+- Output: Assignment to Foreign Exchange specialist
+- Confidence Score: 85-95%
+- Response Time: Based on transfer urgency
+
+## Model Configuration
+
+The system uses Gemini 2.0 Flash model for enhanced processing:
+```python
+model="gemini/gemini-2.0-flash"
+temperature=0.7
+```
+
+## Rate Limiting
+- 120-second delay between email processing
+- Prevents system overload
+- Ensures accurate analysis
+
+## Error Handling
+The system generates error logs for:
+- File processing failures
+- Invalid email formats
+- Attachment processing issues
+- Assignment conflicts
+
 ## Detailed Features
 
 ### 1. Email Content Processing
