@@ -1,0 +1,36 @@
+From: payments@loanservicing.com
+To: timothy.nelson@example.com
+CC: fullpayments@loanservicing.com
+Subject: Inbound Payment Received - Principal, Interest, and Fees
+==================================================
+
+Dear Timothy Nelson,
+
+We have received a payment covering principal, interest, and fees for your loan account #PF-63917-52N.
+
+Payment Details:
+- Total Amount Received: $3,475.50
+- Principal Portion: $2,000.00
+- Interest Portion: $1,350.50
+- Fee Portion: $125.00
+- Fee Type: Late Payment Fee
+- Date Received: March 18, 2025
+- Payment Method: Online Banking
+
+Your new principal balance is $193,000.00. Interest has been paid through April 18, 2025, and all applicable fees have been settled.
+
+If you have any questions about this payment, please contact our customer service at (800) 555-4567.
+
+Sincerely,
+Olivia White
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- Full_Payment_Receipt_PF-63917-52N.pdf
+  Description: Receipt for payment of principal, interest, and fees
+- Payment_Breakdown.pdf
+  Description: Detailed breakdown of payment allocation
+- Fee_Satisfaction_Notice.pdf
+  Description: Notice confirming full satisfaction of outstanding fees

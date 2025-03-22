@@ -1,0 +1,30 @@
+From: closings@loanservicing.com
+To: amanda.martinez@example.com
+CC: amendments@loanservicing.com
+Subject: Amendment Fees - Loan Closing Notice
+==================================================
+
+Dear Amanda Martinez,
+
+This notice is regarding amendment fees applied to your loan account #LA-34098-56D as part of the closing process.
+
+Amendment Fee Details:
+- Amendment Fee Amount: $325.00
+- Reason for Amendment: Term extension request
+- Application Date: March 17, 2025
+
+These fees have been applied due to changes requested to your original loan agreement. The total amount will be included in your final closing statement.
+
+For any clarification, please contact our closing department at (800) 555-4567.
+
+Sincerely,
+Jennifer Wilson
+Loan Closing Department
+
+==================================================
+Attachments:
+
+- Amendment_Fee_Schedule_LA-34098-56D.pdf
+  Description: Schedule of amendment fees and applicable terms
+- Term_Extension_Agreement.pdf
+  Description: Term extension agreement documentation

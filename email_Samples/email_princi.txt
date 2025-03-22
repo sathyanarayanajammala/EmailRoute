@@ -1,0 +1,31 @@
+From: payments@loanservicing.com
+To: kevin.young@example.com
+CC: accountrecords@loanservicing.com
+Subject: Inbound Principal Payment Received
+==================================================
+
+Dear Kevin Young,
+
+We are pleased to confirm that a principal payment has been received and applied to your loan account #MP-36892-74K.
+
+Payment Details:
+- Principal Amount Received: $5,000.00
+- Date Received: March 14, 2025
+- Payment Method: Wire Transfer
+- Confirmation Number: PMT-2025-03146937
+
+Your new principal balance is $145,000.00. This payment has been applied according to the terms of your loan agreement.
+
+If you have any questions about this payment, please contact our customer service at (800) 555-1234.
+
+Sincerely,
+Stephanie Turner
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- Principal_Payment_Confirmation_MP-36892-74K.pdf
+  Description: Confirmation of principal payment receipt and application
+- Updated_Loan_Balance_Statement.pdf
+  Description: Statement showing updated principal balance

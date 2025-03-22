@@ -1,0 +1,35 @@
+From: payments@loanservicing.com
+To: rebecca.martin@example.com
+CC: loanaccounting@loanservicing.com
+Subject: Inbound Principal and Interest Payment Received
+==================================================
+
+Dear Rebecca Martin,
+
+We are pleased to confirm that a combined principal and interest payment has been received and applied to your loan account #PI-28564-39M.
+
+Payment Details:
+- Total Amount Received: $2,350.75
+- Principal Portion: $1,500.00
+- Interest Portion: $850.75
+- Date Received: March 17, 2025
+- Payment Method: Check
+- Confirmation Number: PMT-2025-03172845
+
+Your new principal balance is $218,500.00. Interest has been paid through April 15, 2025.
+
+If you have any questions about this payment, please contact our customer service at (800) 555-3456.
+
+Sincerely,
+Alex Johnson
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- Combined_Payment_Confirmation_PI-28564-39M.pdf
+  Description: Confirmation of principal and interest payment
+- Payment_Allocation_Statement.pdf
+  Description: Statement showing payment allocation details
+- Updated_Amortization_Schedule.pdf
+  Description: Updated amortization schedule

@@ -1,0 +1,12 @@
+crewai>=0.14.0
+langchain>=0.0.249
+langchain-google-genai>=0.0.4
+google-generativeai>=0.3.0
+pandas>=1.3.5
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+pytesseract>=0.3.10
+Pillow>=9.0.0
+python-magic>=0.4.27
+email-validator>=2.0.0
+python-dateutil>=2.8.2

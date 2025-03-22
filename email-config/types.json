@@ -1,0 +1,115 @@
+{
+  "employees": [
+    {
+      "employee_id": "E001",
+      "name": "Alice Johnson",
+      "department": "Loan Servicing",
+      "role": "Loan Adjustment Specialist",
+      "request_types": "Adjustment, AU Transfer",
+      "sub_request_types": "",
+      "technical_skills": "Loan Management System, CRM, Payment Processing",
+      "domain_knowledge": "Retail Loans",
+      "languages": "English, Spanish",
+      "workload": "Medium",
+      "availability": "Available"
+    },
+    {
+      "employee_id": "E002",
+      "name": "Bob Smith",
+      "department": "Loan Closing",
+      "role": "Closing Specialist",
+      "request_types": "Closing Notice",
+      "sub_request_types": "Reallocation Fees, Amendment Fees, Reallocation Principal",
+      "technical_skills": "Closing Documentation, Fee Management",
+      "domain_knowledge": "Commercial Loans",
+      "languages": "English",
+      "workload": "High",
+      "availability": "Limited"
+    },
+    {
+      "employee_id": "E003",
+      "name": "Carol White",
+      "department": "Account Management",
+      "role": "Commitment Change Manager",
+      "request_types": "Commitment Change",
+      "sub_request_types": "Cashless Roll, Decrease, Increase",
+      "technical_skills": "Loan Modification, Term Sheet Processing",
+      "domain_knowledge": "Commercial Real Estate",
+      "languages": "English, French",
+      "workload": "Low",
+      "availability": "Available"
+    },
+    {
+      "employee_id": "E004",
+      "name": "David Garcia",
+      "department": "Financial Operations",
+      "role": "Fee Management Specialist",
+      "request_types": "Fee Payment",
+      "sub_request_types": "Ongoing Fee, Letter of Credit Fee",
+      "technical_skills": "Fee Calculation, Billing Systems",
+      "domain_knowledge": "Corporate Banking",
+      "languages": "English, Spanish",
+      "workload": "Medium",
+      "availability": "Available"
+    },
+    {
+      "employee_id": "E005",
+      "name": "Emma Wilson",
+      "department": "Treasury Management",
+      "role": "Inbound Payment Specialist",
+      "request_types": "Money Movement-Inbound",
+      "sub_request_types": "Principal, Interest, Principal + Interest, Principal+Interest+Fee, Timebound",
+      "technical_skills": "Payment Processing, Reconciliation",
+      "domain_knowledge": "Retail and Commercial Loans",
+      "languages": "English",
+      "workload": "High",
+      "availability": "Limited"
+    },
+    {
+      "employee_id": "E006",
+      "name": "Frank Chen",
+      "department": "International Banking",
+      "role": "Foreign Exchange Specialist",
+      "request_types": "Money Movement - Outbound",
+      "sub_request_types": "Foreign Currency",
+      "technical_skills": "FX Processing, International Wire Transfers",
+      "domain_knowledge": "International Lending",
+      "languages": "English, Mandarin, Cantonese",
+      "workload": "Medium",
+      "availability": "Available"
+    },
+    {
+      "employee_id": "E001",
+      "name": "Alice Johnson",
+      "department": "IT",
+      "role": "Support Engineer",
+      "technical_skills": "Authentication, Dashboard, Account Management",
+      "domain_knowledge": "Enterprise Systems",
+      "languages": "English, Spanish",
+      "workload": "Medium",
+      "availability": "Available"
+    },
+    {
+      "employee_id": "E002",
+      "name": "Bob Smith",
+      "department": "IT",
+      "role": "Systems Administrator",
+      "technical_skills": "System Updates, Backend Infrastructure",
+      "domain_knowledge": "Enterprise Systems",
+      "languages": "English",
+      "workload": "High",
+      "availability": "Limited"
+    },
+    {
+      "employee_id": "E003",
+      "name": "Carol White",
+      "department": "Support",
+      "role": "Customer Success Manager",
+      "technical_skills": "Account Management, CRM",
+      "domain_knowledge": "Enterprise Accounts",
+      "languages": "English, French",
+      "workload": "Low",
+      "availability": "Available"
+    }
+  ]
+    }

@@ -1,0 +1,31 @@
+From: commitments@loanservicing.com
+To: daniel.robinson@example.com
+CC: loanmodifications@loanservicing.com
+Subject: Commitment Decrease Notification
+==================================================
+
+Dear Daniel Robinson,
+
+This is to inform you that there has been a decrease in the commitment amount for your loan account #CD-83915-42G.
+
+Decrease Details:
+- Previous Commitment Amount: $425,000.00
+- New Commitment Amount: $350,000.00
+- Decrease Amount: $75,000.00
+- Effective Date: March 22, 2025
+
+This change has been processed in accordance with the terms of your loan agreement or as requested.
+
+If you have not requested this change or have questions, please contact us immediately at (800) 555-7890.
+
+Sincerely,
+Richard Taylor
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- Commitment_Decrease_Notice_CD-83915-42G.pdf
+  Description: Official notice of commitment decrease
+- Revised_Loan_Agreement.pdf
+  Description: Revised loan agreement with updated commitment amount

@@ -1,0 +1,31 @@
+From: fees@loanservicing.com
+To: elizabeth.clark@example.com
+CC: billing@loanservicing.com
+Subject: Ongoing Fee Payment Notification
+==================================================
+
+Dear Elizabeth Clark,
+
+This is a notification regarding the ongoing fee payment for your loan account #FO-57126-83I.
+
+Payment Details:
+- Fee Type: Servicing Fee
+- Fee Amount: $125.00
+- Payment Date: March 16, 2025
+- Payment Method: Auto-debit
+
+This ongoing fee is in accordance with your loan agreement. The fee has been processed successfully.
+
+For any questions regarding this fee payment, please contact our customer service at (800) 555-9012.
+
+Sincerely,
+Christopher Lewis
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- Fee_Payment_Receipt_FO-57126-83I.pdf
+  Description: Receipt for ongoing fee payment
+- Fee_Schedule.pdf
+  Description: Complete fee schedule for your account

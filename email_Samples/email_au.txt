@@ -1,0 +1,27 @@
+From: transfers@loanservicing.com
+To: emily.johnson@example.com
+CC: accountmanagers@loanservicing.com
+Subject: AU Transfer Notification
+==================================================
+
+Dear Emily Johnson,
+
+This is to confirm that an AU Transfer has been processed on your loan account #AC-78932-01B on March 18, 2025.
+
+Transfer Details:
+- Transfer Amount: $4,750.00
+- Reference Number: TRF-2025-03187652
+
+If you did not authorize this transfer or have any questions, please contact us immediately at (800) 555-2345.
+
+Thank you for your business.
+
+Sincerely,
+Sarah Williams
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- Transfer_Confirmation_TRF-2025-03187652.pdf
+  Description: Official transfer confirmation document

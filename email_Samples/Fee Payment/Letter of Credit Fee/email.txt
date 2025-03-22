@@ -1,0 +1,31 @@
+From: lc@loanservicing.com
+To: jessica.hill@example.com
+CC: letters@loanservicing.com
+Subject: Letter of Credit Fee Payment
+==================================================
+
+Dear Jessica Hill,
+
+We are writing to confirm the payment of a Letter of Credit fee related to your loan account #LC-41573-26J.
+
+Letter of Credit Fee Details:
+- LC Reference Number: LOC-2025-7652419
+- Fee Amount: $450.00
+- Payment Date: March 21, 2025
+- LC Expiry Date: September 21, 2025
+
+This fee has been processed according to the terms of your Letter of Credit agreement.
+
+If you have any questions about this fee or your Letter of Credit, please contact our LC department at (800) 555-0123.
+
+Sincerely,
+Brian Allen
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- LC_Fee_Receipt_LOC-2025-7652419.pdf
+  Description: Receipt for Letter of Credit fee payment
+- Letter_of_Credit_Details.pdf
+  Description: Full Letter of Credit terms and conditions

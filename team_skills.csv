@@ -1,0 +1,10 @@
+employee_id,name,department,role,request_types,sub_request_types,technical_skills,domain_knowledge,languages,workload,availability
+E001,Alice Johnson,Loan Servicing,Loan Adjustment Specialist,"Adjustment, AU Transfer",,"Loan Management System, CRM, Payment Processing",Retail Loans,"English, Spanish",Medium,Available
+E002,Bob Smith,Loan Closing,Closing Specialist,Closing Notice,"Reallocation Fees, Amendment Fees, Reallocation Principal","Closing Documentation, Fee Management",Commercial Loans,English,High,Limited
+E003,Carol White,Account Management,Commitment Change Manager,Commitment Change,"Cashless Roll, Decrease, Increase","Loan Modification, Term Sheet Processing",Commercial Real Estate,"English, French",Low,Available
+E004,David Garcia,Financial Operations,Fee Management Specialist,Fee Payment,"Ongoing Fee, Letter of Credit Fee","Fee Calculation, Billing Systems",Corporate Banking,"English, Spanish",Medium,Available
+E005,Emma Wilson,Treasury Management,Inbound Payment Specialist,Money Movement-Inbound,"Principal, Interest, Principal + Interest, Principal+Interest+Fee, Timebound","Payment Processing, Reconciliation",Retail and Commercial Loans,English,High,Limited
+E006,Frank Chen,International Banking,Foreign Exchange Specialist,Money Movement - Outbound,Foreign Currency,"FX Processing, International Wire Transfers",International Lending,"English, Mandarin, Cantonese",Medium,Available
+E001,Alice Johnson,IT,Support Engineer,,,"Authentication, Dashboard, Account Management",Enterprise Systems,"English, Spanish",Medium,Available
+E002,Bob Smith,IT,Systems Administrator,,,"System Updates, Backend Infrastructure",Enterprise Systems,English,High,Limited
+E003,Carol White,Support,Customer Success Manager,,,"Account Management, CRM",Enterprise Accounts,"English, French",Low,Available

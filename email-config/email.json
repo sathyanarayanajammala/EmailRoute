@@ -1,0 +1,302 @@
+{
+  "emailTemplates": {
+    "Adjustment": {
+      "generic": {
+        "from": "adjustments@loanservicing.com",
+        "to": "john.smith@example.com",
+        "cc": "loanrecords@loanservicing.com",
+        "subject": "Loan Adjustment Notification",
+        "body": "Dear John Smith,\n\nWe are writing to inform you about an adjustment to your loan account #L-45872-93A. This adjustment has been processed on March 15, 2025.\n\nDetails of the adjustment:\n- Adjustment Amount: $258.75\n- Reason for Adjustment: Interest rate recalculation\n\nIf you have any questions regarding this adjustment, please contact our customer service at (800) 555-1234 or reply to this email.\n\nThank you for your attention to this matter.\n\nSincerely,\nMichael Rodriguez\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "Adjustment_Statement_L-45872-93A.pdf",
+            "description": "Detailed adjustment statement showing calculation methods and applied changes"
+          },
+          {
+            "filename": "Updated_Loan_Terms.pdf",
+            "description": "Updated terms reflecting the adjustment"
+          }
+        ]
+      }
+    },
+    "AU Transfer": {
+      "generic": {
+        "from": "transfers@loanservicing.com",
+        "to": "emily.johnson@example.com",
+        "cc": "accountmanagers@loanservicing.com",
+        "subject": "AU Transfer Notification",
+        "body": "Dear Emily Johnson,\n\nThis is to confirm that an AU Transfer has been processed on your loan account #AC-78932-01B on March 18, 2025.\n\nTransfer Details:\n- Transfer Amount: $4,750.00\n- Reference Number: TRF-2025-03187652\n\nIf you did not authorize this transfer or have any questions, please contact us immediately at (800) 555-2345.\n\nThank you for your business.\n\nSincerely,\nSarah Williams\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "Transfer_Confirmation_TRF-2025-03187652.pdf",
+            "description": "Official transfer confirmation document"
+          }
+        ]
+      }
+    },
+    "Closing Notice": {
+      "Reallocation Fees": {
+        "from": "closings@loanservicing.com",
+        "to": "robert.chen@example.com",
+        "cc": "closingteam@loanservicing.com, fees@loanservicing.com",
+        "subject": "Reallocation of Fees - Loan Closing Notice",
+        "body": "Dear Robert Chen,\n\nAs part of the closing process for your loan account #LN-56209-87C, we are writing to inform you about a reallocation of fees.\n\nReallocation Details:\n- Original Fee Amount: $750.00\n- Reallocated Fee Amount: $625.00\n- Effective Date: March 20, 2025\n\nThis reallocation is being made in accordance with your loan agreement. The updated fee structure will be reflected in your final closing statement.\n\nIf you have any questions about this reallocation, please contact your loan officer at (800) 555-3456.\n\nSincerely,\nDavid Thompson\nLoan Closing Department",
+        "attachments": [
+          {
+            "filename": "Fee_Reallocation_Details_LN-56209-87C.pdf",
+            "description": "Itemized breakdown of reallocated fees"
+          },
+          {
+            "filename": "Updated_Closing_Disclosure.pdf",
+            "description": "Updated closing disclosure with new fee structure"
+          }
+        ]
+      },
+      "Amendment Fees": {
+        "from": "closings@loanservicing.com",
+        "to": "amanda.martinez@example.com",
+        "cc": "amendments@loanservicing.com",
+        "subject": "Amendment Fees - Loan Closing Notice",
+        "body": "Dear Amanda Martinez,\n\nThis notice is regarding amendment fees applied to your loan account #LA-34098-56D as part of the closing process.\n\nAmendment Fee Details:\n- Amendment Fee Amount: $325.00\n- Reason for Amendment: Term extension request\n- Application Date: March 17, 2025\n\nThese fees have been applied due to changes requested to your original loan agreement. The total amount will be included in your final closing statement.\n\nFor any clarification, please contact our closing department at (800) 555-4567.\n\nSincerely,\nJennifer Wilson\nLoan Closing Department",
+        "attachments": [
+          {
+            "filename": "Amendment_Fee_Schedule_LA-34098-56D.pdf",
+            "description": "Schedule of amendment fees and applicable terms"
+          },
+          {
+            "filename": "Term_Extension_Agreement.pdf",
+            "description": "Term extension agreement documentation"
+          }
+        ]
+      },
+      "Reallocation Principal": {
+        "from": "closings@loanservicing.com",
+        "to": "thomas.brown@example.com",
+        "cc": "principalchanges@loanservicing.com",
+        "subject": "Principal Reallocation - Loan Closing Notice",
+        "body": "Dear Thomas Brown,\n\nWe are writing to inform you about a principal reallocation on your loan account #LP-67843-21E as part of the closing process.\n\nReallocation Details:\n- Original Principal Amount: $250,000.00\n- Reallocated Principal Amount: $245,750.00\n- Reason for Reallocation: Partial prepayment applied\n\nThis reallocation affects the final principal balance of your loan. The updated amount will be reflected in your closing documents.\n\nIf you have any questions regarding this principal reallocation, please contact your loan officer at (800) 555-5678.\n\nSincerely,\nPatricia Garcia\nLoan Closing Department",
+        "attachments": [
+          {
+            "filename": "Principal_Reallocation_Statement_LP-67843-21E.pdf",
+            "description": "Statement showing principal reallocation details"
+          },
+          {
+            "filename": "Updated_Amortization_Schedule.pdf",
+            "description": "New amortization schedule reflecting principal changes"
+          }
+        ]
+      }
+    },
+    "Commitment Change": {
+      "Cashless Roll": {
+        "from": "commitments@loanservicing.com",
+        "to": "william.lee@example.com",
+        "cc": "accountmanagers@loanservicing.com",
+        "subject": "Cashless Roll Commitment Change",
+        "body": "Dear William Lee,\n\nWe are writing to inform you of a cashless roll commitment change to your loan account #CR-92465-37F.\n\nDetails of the Change:\n- Effective Date: March 25, 2025\n- Previous Commitment: $175,000.00\n- New Commitment: $175,000.00\n- Transaction ID: CRC-2025-038724\n\nThis cashless roll allows for the continuation of your loan with updated terms without requiring additional cash outlay.\n\nPlease review the attached documents for full details of the updated commitment terms. If you have any questions, please contact your account manager at (800) 555-6789.\n\nSincerely,\nKatherine Nelson\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "Cashless_Roll_Agreement_CR-92465-37F.pdf",
+            "description": "Complete cashless roll agreement with terms and conditions"
+          },
+          {
+            "filename": "Updated_Term_Sheet.pdf",
+            "description": "Term sheet with new commitment details"
+          }
+        ]
+      },
+      "Decrease": {
+        "from": "commitments@loanservicing.com",
+        "to": "daniel.robinson@example.com",
+        "cc": "loanmodifications@loanservicing.com",
+        "subject": "Commitment Decrease Notification",
+        "body": "Dear Daniel Robinson,\n\nThis is to inform you that there has been a decrease in the commitment amount for your loan account #CD-83915-42G.\n\nDecrease Details:\n- Previous Commitment Amount: $425,000.00\n- New Commitment Amount: $350,000.00\n- Decrease Amount: $75,000.00\n- Effective Date: March 22, 2025\n\nThis change has been processed in accordance with the terms of your loan agreement or as requested.\n\nIf you have not requested this change or have questions, please contact us immediately at (800) 555-7890.\n\nSincerely,\nRichard Taylor\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "Commitment_Decrease_Notice_CD-83915-42G.pdf",
+            "description": "Official notice of commitment decrease"
+          },
+          {
+            "filename": "Revised_Loan_Agreement.pdf",
+            "description": "Revised loan agreement with updated commitment amount"
+          }
+        ]
+      },
+      "Increase": {
+        "from": "commitments@loanservicing.com",
+        "to": "michelle.scott@example.com",
+        "cc": "underwriting@loanservicing.com",
+        "subject": "Commitment Increase Notification",
+        "body": "Dear Michelle Scott,\n\nWe are pleased to inform you that there has been an increase in the commitment amount for your loan account #CI-26781-59H.\n\nIncrease Details:\n- Previous Commitment Amount: $300,000.00\n- New Commitment Amount: $375,000.00\n- Increase Amount: $75,000.00\n- Effective Date: March 19, 2025\n\nThis change has been processed based on your request and approval by our underwriting department.\n\nPlease review the attached amended loan agreement. If you have any questions, please contact your loan officer at (800) 555-8901.\n\nSincerely,\nJoseph Walker\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "Commitment_Increase_Approval_CI-26781-59H.pdf",
+            "description": "Approval documentation for commitment increase"
+          },
+          {
+            "filename": "Amended_Loan_Agreement.pdf",
+            "description": "Amended loan agreement with new commitment terms"
+          },
+          {
+            "filename": "Updated_Disclosure_Statement.pdf",
+            "description": "Updated disclosure statement reflecting new commitment"
+          }
+        ]
+      }
+    },
+    "Fee Payment": {
+      "Ongoing Fee": {
+        "from": "fees@loanservicing.com",
+        "to": "elizabeth.clark@example.com",
+        "cc": "billing@loanservicing.com",
+        "subject": "Ongoing Fee Payment Notification",
+        "body": "Dear Elizabeth Clark,\n\nThis is a notification regarding the ongoing fee payment for your loan account #FO-57126-83I.\n\nPayment Details:\n- Fee Type: Servicing Fee\n- Fee Amount: $125.00\n- Payment Date: March 16, 2025\n- Payment Method: Auto-debit\n\nThis ongoing fee is in accordance with your loan agreement. The fee has been processed successfully.\n\nFor any questions regarding this fee payment, please contact our customer service at (800) 555-9012.\n\nSincerely,\nChristopher Lewis\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "Fee_Payment_Receipt_FO-57126-83I.pdf",
+            "description": "Receipt for ongoing fee payment"
+          },
+          {
+            "filename": "Fee_Schedule.pdf",
+            "description": "Complete fee schedule for your account"
+          }
+        ]
+      },
+      "Letter of Credit Fee": {
+        "from": "lc@loanservicing.com",
+        "to": "jessica.hill@example.com",
+        "cc": "letters@loanservicing.com",
+        "subject": "Letter of Credit Fee Payment",
+        "body": "Dear Jessica Hill,\n\nWe are writing to confirm the payment of a Letter of Credit fee related to your loan account #LC-41573-26J.\n\nLetter of Credit Fee Details:\n- LC Reference Number: LOC-2025-7652419\n- Fee Amount: $450.00\n- Payment Date: March 21, 2025\n- LC Expiry Date: September 21, 2025\n\nThis fee has been processed according to the terms of your Letter of Credit agreement.\n\nIf you have any questions about this fee or your Letter of Credit, please contact our LC department at (800) 555-0123.\n\nSincerely,\nBrian Allen\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "LC_Fee_Receipt_LOC-2025-7652419.pdf",
+            "description": "Receipt for Letter of Credit fee payment"
+          },
+          {
+            "filename": "Letter_of_Credit_Details.pdf",
+            "description": "Full Letter of Credit terms and conditions"
+          }
+        ]
+      }
+    },
+    "Money Movement-Inbound": {
+      "Principal": {
+        "from": "payments@loanservicing.com",
+        "to": "kevin.young@example.com",
+        "cc": "accountrecords@loanservicing.com",
+        "subject": "Inbound Principal Payment Received",
+        "body": "Dear Kevin Young,\n\nWe are pleased to confirm that a principal payment has been received and applied to your loan account #MP-36892-74K.\n\nPayment Details:\n- Principal Amount Received: $5,000.00\n- Date Received: March 14, 2025\n- Payment Method: Wire Transfer\n- Confirmation Number: PMT-2025-03146937\n\nYour new principal balance is $145,000.00. This payment has been applied according to the terms of your loan agreement.\n\nIf you have any questions about this payment, please contact our customer service at (800) 555-1234.\n\nSincerely,\nStephanie Turner\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "Principal_Payment_Confirmation_MP-36892-74K.pdf",
+            "description": "Confirmation of principal payment receipt and application"
+          },
+          {
+            "filename": "Updated_Loan_Balance_Statement.pdf",
+            "description": "Statement showing updated principal balance"
+          }
+        ]
+      },
+      "Interest": {
+        "from": "payments@loanservicing.com",
+        "to": "rachel.harris@example.com",
+        "cc": "interestpayments@loanservicing.com",
+        "subject": "Inbound Interest Payment Received",
+        "body": "Dear Rachel Harris,\n\nWe are writing to confirm that an interest payment has been received and applied to your loan account #MI-95437-18L.\n\nPayment Details:\n- Interest Amount Received: $875.25\n- Interest Period: February 15, 2025 to March 15, 2025\n- Date Received: March 15, 2025\n- Payment Method: Electronic Funds Transfer\n\nThis payment has been applied to the interest accrued on your loan for the specified period. Your account is now current through March 15, 2025.\n\nIf you have any questions regarding this interest payment, please contact our customer service at (800) 555-2345.\n\nSincerely,\nJames Parker\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "Interest_Payment_Receipt_MI-95437-18L.pdf",
+            "description": "Receipt for interest payment"
+          },
+          {
+            "filename": "Interest_Calculation_Statement.pdf",
+            "description": "Statement showing interest calculation details"
+          }
+        ]
+      },
+      "Principal + Interest": {
+        "from": "payments@loanservicing.com",
+        "to": "rebecca.martin@example.com",
+        "cc": "loanaccounting@loanservicing.com",
+        "subject": "Inbound Principal and Interest Payment Received",
+        "body": "Dear Rebecca Martin,\n\nWe are pleased to confirm that a combined principal and interest payment has been received and applied to your loan account #PI-28564-39M.\n\nPayment Details:\n- Total Amount Received: $2,350.75\n- Principal Portion: $1,500.00\n- Interest Portion: $850.75\n- Date Received: March 17, 2025\n- Payment Method: Check\n- Confirmation Number: PMT-2025-03172845\n\nYour new principal balance is $218,500.00. Interest has been paid through April 15, 2025.\n\nIf you have any questions about this payment, please contact our customer service at (800) 555-3456.\n\nSincerely,\nAlex Johnson\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "Combined_Payment_Confirmation_PI-28564-39M.pdf",
+            "description": "Confirmation of principal and interest payment"
+          },
+          {
+            "filename": "Payment_Allocation_Statement.pdf",
+            "description": "Statement showing payment allocation details"
+          },
+          {
+            "filename": "Updated_Amortization_Schedule.pdf",
+            "description": "Updated amortization schedule"
+          }
+        ]
+      },
+      "Principal+Interest+Fee": {
+        "from": "payments@loanservicing.com",
+        "to": "timothy.nelson@example.com",
+        "cc": "fullpayments@loanservicing.com",
+        "subject": "Inbound Payment Received - Principal, Interest, and Fees",
+        "body": "Dear Timothy Nelson,\n\nWe have received a payment covering principal, interest, and fees for your loan account #PF-63917-52N.\n\nPayment Details:\n- Total Amount Received: $3,475.50\n- Principal Portion: $2,000.00\n- Interest Portion: $1,350.50\n- Fee Portion: $125.00\n- Fee Type: Late Payment Fee\n- Date Received: March 18, 2025\n- Payment Method: Online Banking\n\nYour new principal balance is $193,000.00. Interest has been paid through April 18, 2025, and all applicable fees have been settled.\n\nIf you have any questions about this payment, please contact our customer service at (800) 555-4567.\n\nSincerely,\nOlivia White\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "Full_Payment_Receipt_PF-63917-52N.pdf",
+            "description": "Receipt for payment of principal, interest, and fees"
+          },
+          {
+            "filename": "Payment_Breakdown.pdf",
+            "description": "Detailed breakdown of payment allocation"
+          },
+          {
+            "filename": "Fee_Satisfaction_Notice.pdf",
+            "description": "Notice confirming full satisfaction of outstanding fees"
+          }
+        ]
+      },
+      "Timebound": {
+        "from": "payments@loanservicing.com",
+        "to": "jonathan.baker@example.com",
+        "cc": "scheduledpayments@loanservicing.com",
+        "subject": "Timebound Inbound Payment Received",
+        "body": "Dear Jonathan Baker,\n\nWe are writing to confirm the receipt of a timebound payment to your loan account #TB-74258-61P.\n\nTimebound Payment Details:\n- Amount Received: $2,750.00\n- Date Received: March 20, 2025\n- Payment Method: Mobile Banking\n- Payment Period: March 1, 2025 to March 31, 2025\n- Confirmation Number: PMT-2025-03201586\n\nThis payment has been applied according to the terms of your timebound payment agreement. Your next scheduled payment is due on April 20, 2025.\n\nIf you have any questions about this payment, please contact our customer service at (800) 555-5678.\n\nSincerely,\nNicole Campbell\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "Timebound_Payment_Confirmation_TB-74258-61P.pdf",
+            "description": "Confirmation of timebound payment receipt"
+          },
+          {
+            "filename": "Payment_Schedule_Update.pdf",
+            "description": "Updated payment schedule for future payments"
+          }
+        ]
+      }
+    },
+    "Money Movement - Outbound": {
+      "Foreign Currency": {
+        "from": "internationaltransfers@loanservicing.com",
+        "to": "samuel.green@example.com",
+        "cc": "foreignexchange@loanservicing.com, compliance@loanservicing.com",
+        "subject": "Outbound Foreign Currency Transfer Notification",
+        "body": "Dear Samuel Green,\n\nWe are writing to confirm an outbound foreign currency transfer related to your loan account #FC-52683-47Q.\n\nTransfer Details:\n- Transfer Amount: $10,000.00 USD\n- Converted Amount: €9,250.00 EUR\n- Exchange Rate: 0.925\n- Transfer Date: March 19, 2025\n- Recipient Information: Globex Corporation, IBAN: IT60X0542811101000000123456\n- Reference Number: FCT-2025-03194273\n\nThis transfer has been processed according to your instructions. If you did not authorize this transaction or have any questions, please contact us immediately at (800) 555-6789.\n\nSincerely,\nLisa Mitchell\nLoan Servicing Department",
+        "attachments": [
+          {
+            "filename": "Foreign_Currency_Transfer_Confirmation_FC-52683-47Q.pdf",
+            "description": "Official transfer confirmation with banking details"
+          },
+          {
+            "filename": "Exchange_Rate_Certification.pdf",
+            "description": "Certification of exchange rate applied to transaction"
+          },
+          {
+            "filename": "International_Wire_Receipt.pdf",
+            "description": "Receipt of international wire transfer"
+          }
+        ]
+      }
+    }
+  }
+}

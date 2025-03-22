@@ -1,0 +1,31 @@
+From: commitments@loanservicing.com
+To: william.lee@example.com
+CC: accountmanagers@loanservicing.com
+Subject: Cashless Roll Commitment Change
+==================================================
+
+Dear William Lee,
+
+We are writing to inform you of a cashless roll commitment change to your loan account #CR-92465-37F.
+
+Details of the Change:
+- Effective Date: March 25, 2025
+- Previous Commitment: $175,000.00
+- New Commitment: $175,000.00
+- Transaction ID: CRC-2025-038724
+
+This cashless roll allows for the continuation of your loan with updated terms without requiring additional cash outlay.
+
+Please review the attached documents for full details of the updated commitment terms. If you have any questions, please contact your account manager at (800) 555-6789.
+
+Sincerely,
+Katherine Nelson
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- Cashless_Roll_Agreement_CR-92465-37F.pdf
+  Description: Complete cashless roll agreement with terms and conditions
+- Updated_Term_Sheet.pdf
+  Description: Term sheet with new commitment details

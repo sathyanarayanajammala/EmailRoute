@@ -1,0 +1,31 @@
+From: payments@loanservicing.com
+To: rachel.harris@example.com
+CC: interestpayments@loanservicing.com
+Subject: Inbound Interest Payment Received
+==================================================
+
+Dear Rachel Harris,
+
+We are writing to confirm that an interest payment has been received and applied to your loan account #MI-95437-18L.
+
+Payment Details:
+- Interest Amount Received: $875.25
+- Interest Period: February 15, 2025 to March 15, 2025
+- Date Received: March 15, 2025
+- Payment Method: Electronic Funds Transfer
+
+This payment has been applied to the interest accrued on your loan for the specified period. Your account is now current through March 15, 2025.
+
+If you have any questions regarding this interest payment, please contact our customer service at (800) 555-2345.
+
+Sincerely,
+James Parker
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- Interest_Payment_Receipt_MI-95437-18L.pdf
+  Description: Receipt for interest payment
+- Interest_Calculation_Statement.pdf
+  Description: Statement showing interest calculation details

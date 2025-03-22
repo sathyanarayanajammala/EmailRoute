@@ -1,0 +1,30 @@
+From: closings@loanservicing.com
+To: robert.chen@example.com
+CC: closingteam@loanservicing.com, fees@loanservicing.com
+Subject: Reallocation of Fees - Loan Closing Notice
+==================================================
+
+Dear Robert Chen,
+
+As part of the closing process for your loan account #LN-56209-87C, we are writing to inform you about a reallocation of fees.
+
+Reallocation Details:
+- Original Fee Amount: $750.00
+- Reallocated Fee Amount: $625.00
+- Effective Date: March 20, 2025
+
+This reallocation is being made in accordance with your loan agreement. The updated fee structure will be reflected in your final closing statement.
+
+If you have any questions about this reallocation, please contact your loan officer at (800) 555-3456.
+
+Sincerely,
+David Thompson
+Loan Closing Department
+
+==================================================
+Attachments:
+
+- Fee_Reallocation_Details_LN-56209-87C.pdf
+  Description: Itemized breakdown of reallocated fees
+- Updated_Closing_Disclosure.pdf
+  Description: Updated closing disclosure with new fee structure

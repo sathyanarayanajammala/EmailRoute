@@ -1,0 +1,32 @@
+From: payments@loanservicing.com
+To: jonathan.baker@example.com
+CC: scheduledpayments@loanservicing.com
+Subject: Timebound Inbound Payment Received
+==================================================
+
+Dear Jonathan Baker,
+
+We are writing to confirm the receipt of a timebound payment to your loan account #TB-74258-61P.
+
+Timebound Payment Details:
+- Amount Received: $2,750.00
+- Date Received: March 20, 2025
+- Payment Method: Mobile Banking
+- Payment Period: March 1, 2025 to March 31, 2025
+- Confirmation Number: PMT-2025-03201586
+
+This payment has been applied according to the terms of your timebound payment agreement. Your next scheduled payment is due on April 20, 2025.
+
+If you have any questions about this payment, please contact our customer service at (800) 555-5678.
+
+Sincerely,
+Nicole Campbell
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- Timebound_Payment_Confirmation_TB-74258-61P.pdf
+  Description: Confirmation of timebound payment receipt
+- Payment_Schedule_Update.pdf
+  Description: Updated payment schedule for future payments

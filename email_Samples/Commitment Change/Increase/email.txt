@@ -1,0 +1,33 @@
+From: commitments@loanservicing.com
+To: michelle.scott@example.com
+CC: underwriting@loanservicing.com
+Subject: Commitment Increase Notification
+==================================================
+
+Dear Michelle Scott,
+
+We are pleased to inform you that there has been an increase in the commitment amount for your loan account #CI-26781-59H.
+
+Increase Details:
+- Previous Commitment Amount: $300,000.00
+- New Commitment Amount: $375,000.00
+- Increase Amount: $75,000.00
+- Effective Date: March 19, 2025
+
+This change has been processed based on your request and approval by our underwriting department.
+
+Please review the attached amended loan agreement. If you have any questions, please contact your loan officer at (800) 555-8901.
+
+Sincerely,
+Joseph Walker
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- Commitment_Increase_Approval_CI-26781-59H.pdf
+  Description: Approval documentation for commitment increase
+- Amended_Loan_Agreement.pdf
+  Description: Amended loan agreement with new commitment terms
+- Updated_Disclosure_Statement.pdf
+  Description: Updated disclosure statement reflecting new commitment

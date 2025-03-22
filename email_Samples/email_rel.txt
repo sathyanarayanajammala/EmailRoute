@@ -1,0 +1,30 @@
+From: closings@loanservicing.com
+To: thomas.brown@example.com
+CC: principalchanges@loanservicing.com
+Subject: Principal Reallocation - Loan Closing Notice
+==================================================
+
+Dear Thomas Brown,
+
+We are writing to inform you about a principal reallocation on your loan account #LP-67843-21E as part of the closing process.
+
+Reallocation Details:
+- Original Principal Amount: $250,000.00
+- Reallocated Principal Amount: $245,750.00
+- Reason for Reallocation: Partial prepayment applied
+
+This reallocation affects the final principal balance of your loan. The updated amount will be reflected in your closing documents.
+
+If you have any questions regarding this principal reallocation, please contact your loan officer at (800) 555-5678.
+
+Sincerely,
+Patricia Garcia
+Loan Closing Department
+
+==================================================
+Attachments:
+
+- Principal_Reallocation_Statement_LP-67843-21E.pdf
+  Description: Statement showing principal reallocation details
+- Updated_Amortization_Schedule.pdf
+  Description: New amortization schedule reflecting principal changes

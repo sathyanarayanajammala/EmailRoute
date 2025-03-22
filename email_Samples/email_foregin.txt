@@ -1,0 +1,33 @@
+From: internationaltransfers@loanservicing.com
+To: samuel.green@example.com
+CC: foreignexchange@loanservicing.com, compliance@loanservicing.com
+Subject: Outbound Foreign Currency Transfer Notification
+==================================================
+
+Dear Samuel Green,
+
+We are writing to confirm an outbound foreign currency transfer related to your loan account #FC-52683-47Q.
+
+Transfer Details:
+- Transfer Amount: $10,000.00 USD
+- Converted Amount: â‚¬9,250.00 EUR
+- Exchange Rate: 0.925
+- Transfer Date: March 19, 2025
+- Recipient Information: Globex Corporation, IBAN: IT60X0542811101000000123456
+- Reference Number: FCT-2025-03194273
+
+This transfer has been processed according to your instructions. If you did not authorize this transaction or have any questions, please contact us immediately at (800) 555-6789.
+
+Sincerely,
+Lisa Mitchell
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- Foreign_Currency_Transfer_Confirmation_FC-52683-47Q.pdf
+  Description: Official transfer confirmation with banking details
+- Exchange_Rate_Certification.pdf
+  Description: Certification of exchange rate applied to transaction
+- International_Wire_Receipt.pdf
+  Description: Receipt of international wire transfer

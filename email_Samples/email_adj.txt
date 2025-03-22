@@ -1,0 +1,29 @@
+From: adjustments@loanservicing.com
+To: john.smith@example.com
+CC: loanrecords@loanservicing.com
+Subject: Loan Adjustment Notification
+==================================================
+
+Dear John Smith,
+
+We are writing to inform you about an adjustment to your loan account #L-45872-93A. This adjustment has been processed on March 15, 2025.
+
+Details of the adjustment:
+- Adjustment Amount: $258.75
+- Reason for Adjustment: Interest rate recalculation
+
+If you have any questions regarding this adjustment, please contact our customer service at (800) 555-1234 or reply to this email.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+Michael Rodriguez
+Loan Servicing Department
+
+==================================================
+Attachments:
+
+- Adjustment_Statement_L-45872-93A.pdf
+  Description: Detailed adjustment statement showing calculation methods and applied changes
+- Updated_Loan_Terms.pdf
+  Description: Updated terms reflecting the adjustment
