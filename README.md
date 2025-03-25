@@ -205,6 +205,7 @@ Produces structured analysis results in the following format:
 
 ### Output Storage
 - Generates detailed analysis in `output_results/email_analysis_results.txt`
+- video recording is present output_results zip file. extract the zip for video recording.
 - Maintains structured format for easy parsing
 - Includes timestamps and processing metadata
 - Preserves full analysis chain
