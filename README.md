@@ -161,14 +161,7 @@ Produces structured analysis results in the following format:
         "priority": "string",
         "sla_deadline": "datetime"
     },
-    "attachments": [
-        {
-            "filename": "string",
-            "content_type": "string",
-            "processing_status": "string",
-            "extracted_text": "string"
-        }
-    ]
+    
 }
 ```
 
