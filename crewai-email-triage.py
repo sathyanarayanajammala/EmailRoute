@@ -29,12 +29,20 @@ from time import sleep
 # Load and configure API
 load_dotenv()
 
-
 gemini_pro = LLM(
     model="gemini/gemini-2.0-flash",
     temperature=0.7,
-    api_key="AIzaSyCJ3y0JCD0NaZ8zmvqgC7SrC3vFEsjdwgU"
+    api_key="AIzaSyCJ3y0JCD0NaZ8zmvqgC7SrC3vFEsjdwgU",
+    # Additional recommended parameters
+    max_tokens=1024,        # Control response length
+    top_p=0.95,            # Nucleus sampling parameter
+    top_k=40,              # Limit vocabulary diversity
+    presence_penalty=0.2,   # Reduce repetition
+    frequency_penalty=0.3,  # Encourage diverse language
+    context_window=8192,    # Maximum context length
+    streaming=True         # Enable streaming responses
 )
+
 # Initialize Gemini Pro
 
 
@@ -132,6 +140,7 @@ def load_team_skills(file_path="team_skills.csv") -> pd.DataFrame:
         # Return empty DataFrame with expected columns
         return pd.DataFrame(columns=[
             "employee_id", "name", "department", "role", 
+            "request_types", "sub_request_types" 
             "technical_skills", "domain_knowledge", "languages",
             "workload", "availability"
         ])
@@ -229,8 +238,11 @@ def create_intent_classification_task(email_data, summary):
         1. Primary intent (choose one): Customer Support, Technical Issue, Account Management, Billing Question, Feature Request, Bug Report, General Inquiry, Sales Lead, Partnership Opportunity, Complaint, Urgent Issue, Other
         2. Priority level (choose one): Low, Medium, High, Critical
         3. Response time expectation (choose one): 24 hours, 48 hours, 72 hours, 1 week
-        4. Department(s) responsible (can be multiple): IT, Sales, Support, Legal, Finance, Product, HR, Marketing, Engineering
-        5. Sentiment: Is the sender satisfied, neutral, or dissatisfied?
+        4. Department(s) responsible (can be multiple): Loan Servicing,Loan Closing,Account Management,Treasury Management,Financial Operations,International Banking,IT,Support,Legal,Finance,Product,HR,Marketing,Engineering
+        5. Request type or Sub_request_types responsible (can be multiple): Adjustment, AU Transfer,IT,Support,Closing Notice,commitment change,Fee Payment,Money Movement-Inbound,Money Movement - Outbound,Foreign Currency,Principal, Interest,
+          Principal + Interest, Principal+Interest+Fee, Timebound,Ongoing Fee, Letter of Credit Fee,	Cashless Roll, Decrease, Increase,Reallocation Fees, 
+          Amendment Fees, Reallocation Principal
+        6. Sentiment: Is the sender satisfied, neutral, or dissatisfied?
         
         Respond with a valid JSON object containing these fields.
         """,
@@ -285,7 +297,7 @@ def create_assignment_task(intent_data, attributes, team_data):
         {team_json}
         
         Select the best match based on:
-        1. Department alignment with request type
+        1. alignment with request type or sub_request_types
         2. Required skills and domain knowledge
         3. Current workload and availability
         4. Priority level of the request
@@ -493,7 +505,7 @@ def process_email_samples():
                 # Write to file and also print to console
                 out_file.write(result_text)
                 print(result_text)  # Optional: keep console output as well
-                sleep(120)
+                sleep(30)
             except Exception as e:
                 result_text += f"Error processing {email_file.name}: {str(e)}\n"
                 print(result_text)
